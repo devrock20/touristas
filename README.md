@@ -1,2 +1,4 @@
-# touristas
-This is the repo of my group project in college
+# Touristas
+This is a simple website which let's the user's view information about a particular place and also book hotles,trains,flights to that particular place.
+
+This was developed as part of our group project in our college.
